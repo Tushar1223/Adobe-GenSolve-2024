@@ -1,4 +1,4 @@
-Curvetopia: Transforming 2D Curves into Visual Masterpieces
+ Curvetopia: Transforming 2D Curves into Visual Masterpieces
 Welcome to Curvetopia, a project dedicated to enhancing and perfecting 2D curves. Our mission is to take complex, imperfect polylines and transform them into refined, beautiful cubic Bézier curves, contributing to the realms of computer graphics, computer vision, and digital art.
 
 Project Goals
